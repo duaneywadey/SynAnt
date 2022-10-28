@@ -1,10 +1,8 @@
-# Dictionary-app
-Simple JavaScript based dictionary .
+# SynAnt
+Find synonyms and antonyms in an insant.
 
-In this Web-app , you can find antonym , synonym and rhyming words .
+![image](https://user-images.githubusercontent.com/88537860/198570071-b63f4064-e99a-4178-a1b7-73106f66d66b.png)
 
-### Click ⬇
-(DEMO LINK)[https://himanshu-0624.github.io/dictionary-app/]
+This app can help you find more synonyms and antonyms for a particular word. 
 
-It basically fetch a *GET* request to datamuse api using  XMLHttpRequest.
 
