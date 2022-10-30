@@ -122,7 +122,7 @@ const renderResponse1 = (res) => {
     }
   
     if(!res.length){
-      responseField1.innerHTML = "<div class=\"alert alert-danger\" role=\"alert\"><p>Try again!</p><p>There were no suggestions found!</p></div>";
+      responseField2.innerHTML = "<div class=\"alert alert-danger\" role=\"alert\"><p>Try again!</p><p>There were no suggestions found!</p></div>";
       return;
     }
   
